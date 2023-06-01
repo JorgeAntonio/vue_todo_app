@@ -44,6 +44,7 @@ const props = defineProps({
 
 .completed {
     text-decoration: line-through;
+    color: gray;
 }
 
 .custom_check .el-radio__inner {
